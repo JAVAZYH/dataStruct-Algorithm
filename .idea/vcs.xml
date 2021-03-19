@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlinkStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HBaseStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TSY_AllBlue_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hbase0213" vcs="Git" />
+  </component>
+</project>
